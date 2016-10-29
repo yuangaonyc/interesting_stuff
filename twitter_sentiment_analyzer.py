@@ -1,3 +1,4 @@
+# sentiment analysis by TextBlob
 import tweepy
 from textblob import TextBlob
 

@@ -1,3 +1,4 @@
+# sklearn dicision tree classificaion model
 from sklearn import tree
 
 X = [[181,80,44], [177,70,43], [160,60,38], [154,54,37],
